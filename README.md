@@ -2,8 +2,14 @@
 
 ## Лабораторные работы
 
-- [0 лаба](https://docs.google.com/document/d/14txuOSI_KKtWVFXsgsPRi1N4Fl2qhh-jio16kJkhg-Y/edit#heading=h.g3tkj3plen6t)
-- [1-7 лабы](https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit?usp=sharing&ouid=111575169959601104712&rtpof=true&sd=true)
+0. [Lab0 (только 2пп y26)](./labs/lab0.md)
+1. [Lab1](./labs/lab1.md)
+2. [Lab2](./labs/lab2.md)
+3. [Lab3](./labs/lab3.md)
+4. [Lab4](./labs/lab4.md)
+5. [Lab5](./labs/lab5.md)
+6. [Lab6](./labs/lab6.md)
+7. [Lab7](./labs/lab7.md)
 
 ## [Таблица](https://docs.google.com/spreadsheets/d/15DjY1zjrRY0B95zFgD_RqMLDGOe4ayKXbxaYe7gXDbs/edit?usp=sharing) с баллами
 
